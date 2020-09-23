@@ -1,0 +1,51 @@
+HELP: SUPERCONSOLE 1.26 BY SUSHANT PANDURANGI
+
+A. BRIEF OVERVIEW
+
+SuperConsole is a complete console, like MS-DOS. It has functions for a wide range of features, like copying, moving and deleting files, carrying out network functions, etc. The latest version 1.26 has been released on 23 Apr 2001, it includes updates such as the ability to read SCL (SuperConsole Command List) files, and parse them, like DOS parses batch files.
+
+B. FUNCTIONS & PROCEDURES
+
+SuperConsole is equipped with loads of features like the ability to move and copy files, manipulate and view files, etc. It has an in-built image and text viewer. These are the functions you can carry out with SuperConsole:
+
+1. CD: Change to given Directory
+2. MD: Create (Make) Directory
+3. NAME: Rename a file or files
+4. DEL: Delete a file or files
+5. COPY: Copy one or more files
+6. MOVE: Move one or more files
+7. SCRN: Toggle Fullscreen mode
+8. LOAD: Load an text file or image
+9. ! (symbol): Set user options & preferences
+10. ? (symbol): Get quick help
+11. HELP: Bring up this help text
+12. RD: Remove (Delete) Directory
+13. DIR: Show current directory
+14. LIST: List files and folders
+
+Besides, you can enter file names of executables to run them; and enter filenames (with extensions) in case of non-executable files to open them in their associated program.
+
+SuperConsole provides other network utilities, like:
+
+1. PING: Ping a host and measure TripTime.
+2. WHOIS: Get WhoIs info on a domain.
+3. PORT: Find out if a port exists on a host.
+4. IP: Convert hostname to IP address
+5. HOST: Convert IP address to Hostname.
+
+C. FUNCTION SYNTAX
+
+The syntax of SuperConsole differs from DOS in one major aspect: Whie you use spaces in DOS to move or copy files, you have to use commas in SuperConsole. Like for example, the following syntax applies to COPY, MOVE and NAME:
+
+	Copy *.bmp, some_folder
+	[Would move all bitmaps to some_folder.]
+
+For the DEL command, you simply use:
+
+	Del xyz.bmp OR
+	Del *.bmp
+
+D. ABOUT THIS PROGRAM
+
+This program is freeware, it may be redistributed at no charge. If you like you can have the source code that makes up the application, written in VISUAL BASIC. For more software, please visit http://sushantshome.tripod.com.
+
